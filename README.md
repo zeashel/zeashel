@@ -1,5 +1,5 @@
 <h1 align="center">
-  zeashel
+  Zeashel's GitHub
 </h1>
 
 <p align=center>I'm a CS student who enjoys building things and experimenting with games and software.</p>
