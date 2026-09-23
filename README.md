@@ -1,10 +1,8 @@
-<h1 align="center">
-  Zeashel's GitHub
-</h1>
+# `zeashel`
 
-<p align=center>I'm a CS student who enjoys building things and experimenting with games and software.</p>
+I'm a CS student who enjoys building things and experimenting with games and software.
 
-<p align=center>
+<p align=left>
   <img alt="My Skills" title="My Skills" src="https://skillicons.dev/icons?i=python,bash,html,css,sass,js,ts,astro,react,nodejs,blender&theme=dark" />
 </p>
 
