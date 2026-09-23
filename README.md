@@ -8,15 +8,13 @@ I'm a CS student who enjoys building things and experimenting with games and sof
 
 ---
 
-### Stuff and Technologies I Enjoy
+### Stuff I Enjoy
 
 - Web development
 - Python scripting
 - Shell scripting and command-line tools
 - Game modding and tools
 - Learning and building hobby projects
-
----
 
 ### Currently Learning
 
