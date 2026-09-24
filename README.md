@@ -14,6 +14,7 @@ Just someone who enjoys building things and experimenting with games and softwar
 - Python scripting
 - Shell scripting and command-line tools
 - Game modding and tools
+- Art, design, and 3D modeling
 - Learning and building hobby projects
 
 ### Currently Learning
